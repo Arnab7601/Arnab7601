@@ -11,7 +11,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subrata-775&label=Profile%20views&color=0e75b6&style=flat" alt="subrata-775" />
+  <img src="https://komarev.com/ghpvc/?username=Arnab7601&label=Profile%20views&color=0e75b6&style=flat" alt="Arnab7601" />
 </p>
 
 <!-- Intro + Coding GIF -->
@@ -114,7 +114,6 @@
   <img src="https://img.shields.io/badge/Loves-DSA-success?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Tools-GitHub-lightgrey?style=for-the-badge&logo=github" />
 </p>
-
 
 
 
